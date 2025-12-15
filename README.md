@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [DHRUV's workspace](https://github.com/DhruvBaraiya?tab=repositories)
 
-- 💬 Ask me about **JavaScript, NodeJS,MySQL**
+- 💬 Ask me about **Java, JavaScript, NodeJS,MySQL**
 
 - ⚡ Fun fact **I think I'm hungry about coding**
 
@@ -27,14 +27,14 @@
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,expressjs,redis,pug" />
+    <img src="https://skillicons.dev/icons?i=java,js,nodejs,expressjs,redis,pug" />
   </a>
 </p>
 
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,css,html" />
+    <img src="https://skillicons.dev/icons?i=angularjs,js,css,html" />
   </a>
 </p>
 
