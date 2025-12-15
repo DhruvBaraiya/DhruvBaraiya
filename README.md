@@ -9,7 +9,7 @@
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546ccfb9d5d05ddb2f429277f5348/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966">
 <br>
 
-- 🌱 I’m currently learning about **Front End Technologies**    
+- 🌱 I’m currently learning about **Full Stack Technologies**    
 
 - 👨‍💻 All of my projects are available at [DHRUV's workspace](https://github.com/DhruvBaraiya?tab=repositories)
 
@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rahulbaraiya12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rahul-Baraiya" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dhruv-baraiya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Dhruv-Baraiya" height="30" width="40" /></a>
 </p>
 <br>
 <h3 align="left">Languages and Tools:</h3>
@@ -34,7 +34,7 @@
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angularjs,js,css,html" />
+    <img src="https://skillicons.dev/icons?i=js,css,html,angular" />
   </a>
 </p>
 
